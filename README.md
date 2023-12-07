@@ -42,7 +42,4 @@ Run the server and start exploring the application.
 
 # output :-
 ![Screenshot (1)](https://github.com/KunalMali-The-Clever-Programmer/Travel-App-MERN-Full-Stack-main/assets/107911019/2296cec1-0507-4f6b-8cd4-7785fb92c129)
-![Screenshot (2)](https://github.com/KunalMali-The-Clever-Programmer/Travel-App-MERN-Full-Stack-main/assets/107911019/72ef0181-f3b2-4438-a9c7-75ef47aeb012)
-![Uploading Scre![Screenshot (5)](https://github.com/KunalMali-The-Clever-Programmer/Travel-App-MERN-Full-Stack-main/assets/107911019/a571c3b8-3b8a-4acf-84f8-44024c19e5ab)
-enshot (3).![Screenshot (4)](https://github.com/KunalMali-The-Clever-Programmer/Travel-App-MERN-Full-Stack-main/assets/107911019/7ca87b73-86c4-495d-8643-2ebb0f59eb01)
-png…]()
+
