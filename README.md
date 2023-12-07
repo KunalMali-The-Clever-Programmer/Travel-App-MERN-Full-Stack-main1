@@ -1,4 +1,4 @@
-![Screenshot (3)](https://github.com/KunalMali-The-Clever-Programmer/Travel-App-MERN-Full-Stack-main/assets/107911019/eb364cf6-ab1a-47a1-832f-eb47317305a8)# Travel-App-MERN-Full-Stack-main
+# Travel-App-MERN-Full-Stack-main
 
 Welcome to our Travel-Hotel Booking website, a comprehensive platform that allows users to explore, book, and manage hotel accommodations seamlessly. Built using the MERN (MongoDB, Express.js, React.js, Node.js) stack, this application provides a robust and user-friendly experience for both travelers and hotel owners.
 # Key Features:
@@ -43,6 +43,6 @@ Run the server and start exploring the application.
 # output :-
 ![Screenshot (1)](https://github.com/KunalMali-The-Clever-Programmer/Travel-App-MERN-Full-Stack-main/assets/107911019/2296cec1-0507-4f6b-8cd4-7785fb92c129)
 ![Screenshot (2)](https://github.com/KunalMali-The-Clever-Programmer/Travel-App-MERN-Full-Stack-main/assets/107911019/72ef0181-f3b2-4438-a9c7-75ef47aeb012)
-![Uploading Scre![Screenshot (5)](https://github.com/KunalMali-The-Clever-Programmer/Travel-App-MERN-Full-Stack-main/assets/107911019/a571c3b8-3b8a-4acf-84f8-44024c19e5ab)
-enshot (3).![Screenshot (4)](https://github.com/KunalMali-The-Clever-Programmer/Travel-App-MERN-Full-Stack-main/assets/107911019/7ca87b73-86c4-495d-8643-2ebb0f59eb01)
-png…]()
+![Screenshot (3)](https://github.com/KunalMali-The-Clever-Programmer/Travel-App-MERN-Full-Stack-main/assets/107911019/eb364cf6-ab1a-47a1-832f-eb47317305a8)# 
+![Screenshot (4)](https://github.com/KunalMali-The-Clever-Programmer/Travel-App-MERN-Full-Stack-main/assets/107911019/9c0200c0-46a3-4e77-b92f-3c0ab0406242)
+![Screenshot (5)](https://github.com/KunalMali-The-Clever-Programmer/Travel-App-MERN-Full-Stack-main/assets/107911019/e5fc0243-d1fc-4e4b-9930-d8f43b5c84a7)
